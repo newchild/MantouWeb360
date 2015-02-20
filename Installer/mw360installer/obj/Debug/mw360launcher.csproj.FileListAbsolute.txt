@@ -1,0 +1,29 @@
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.exe.config
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.csprojResolveAssemblyReference.cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.Properties.Resources.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.csproj.GenerateResource.Cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.launcherForm.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\bin\Debug\mw360launcher.exe.config
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\bin\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\bin\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.csprojResolveAssemblyReference.cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.Properties.Resources.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.csproj.GenerateResource.Cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\bin\Debug\Ionic.Zip.dll
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.csproj.ResolveComReference.cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.start.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.redstore.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.zhlauncherform.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\mw360installer\obj\Debug\mw360launcher.zhForm1.resources
+C:\Users\kaikun97\Documents\MantouWeb360\Installer\mw360installer\bin\Debug\mw360launcher.exe.config
+C:\Users\kaikun97\Documents\MantouWeb360\Installer\mw360installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\kaikun97\Documents\MantouWeb360\Installer\mw360installer\obj\Debug\mw360launcher.csproj.ResolveComReference.cache
+C:\Users\kaikun97\Documents\MantouWeb360\Installer\mw360installer\obj\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\MantouWeb360\Installer\mw360installer\obj\Debug\mw360launcher.pdb

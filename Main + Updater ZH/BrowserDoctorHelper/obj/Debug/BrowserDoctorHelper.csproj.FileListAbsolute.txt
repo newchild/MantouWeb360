@@ -1,0 +1,7 @@
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\bin\Debug\BrowserDoctorHelper.exe
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\bin\Debug\BrowserDoctorHelper.pdb
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\obj\Debug\BrowserDoctorHelper.bdform.resources
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\obj\Debug\BrowserDoctorHelper.Properties.Resources.resources
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\obj\Debug\BrowserDoctorHelper.csproj.GenerateResource.Cache
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\obj\Debug\BrowserDoctorHelper.exe
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\BrowserDoctorHelper\obj\Debug\BrowserDoctorHelper.pdb
