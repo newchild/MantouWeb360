@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfDownloadItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DownloadItem lf="C:\Users\kaikun97\Desktop\360se_qiangpiao.exe" segCnt="1" dt="2015-01-06T16:27:25.8786402+00:00">
+    <rl>
+      <URL>http://down.360safe.com/se/360se_qiangpiao.exe</URL>
+      <Authenticate>false</Authenticate>
+      <Login />
+      <Password />
+      <ProtocolProviderType>MyDownloader.Extension.Protocols.HttpProtocolProvider, MyDownloader.Extension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ProtocolProviderType>
+    </rl>
+    <mirrors />
+    <remoteInfo>
+      <MimeType>application/octet-stream</MimeType>
+      <AcceptRanges>true</AcceptRanges>
+      <FileSize>26314568</FileSize>
+      <LastModified>2014-12-19T04:28:58+00:00</LastModified>
+    </remoteInfo>
+    <Segments>
+      <SegmentItem i="0" isp="0" sp="16851058" ep="26314568" />
+    </Segments>
+    <extendedProperties />
+  </DownloadItem>
+</ArrayOfDownloadItem>

@@ -1,0 +1,17 @@
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.exe.config
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\bin\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.launcherForm.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.Properties.Resources.resources
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.csproj.GenerateResource.Cache
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\Visual Studio 2013\Projects\MantouWeb360 en\mw360launcher\obj\Debug\mw360launcher.csprojResolveAssemblyReference.cache
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\bin\Debug\mw360launcher.exe.config
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\bin\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\bin\Debug\mw360launcher.pdb
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\obj\Debug\mw360launcher.launcherForm.resources
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\obj\Debug\mw360launcher.Properties.Resources.resources
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\obj\Debug\mw360launcher.csproj.GenerateResource.Cache
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\obj\Debug\mw360launcher.exe
+C:\Users\kaikun97\Documents\MantouWeb360\Main + Updater\mw360launcher\obj\Debug\mw360launcher.pdb
